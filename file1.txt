@@ -1,1 +1,1 @@
-HelloWorld test
+HelloWorld tests
